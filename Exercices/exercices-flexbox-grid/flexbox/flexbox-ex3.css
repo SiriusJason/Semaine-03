@@ -41,6 +41,11 @@ section {
   display: flex;
   flex-direction: row;
 }
+ul {
+  display: flex;
+  justify-content: flex-start;
+}
+
 li {
   display: flex;
   justify-content: center;
